@@ -1,0 +1,21 @@
+.RemoveBtn {
+  width: 80px;
+  height: 30px;
+  background-color: #1f1f2f;
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+  outline: none;
+  color: white;
+}
+.CountryCard {
+  background-color: #1f1f2f;
+}
+.CountryCard > img {
+  width: 100%;
+}
+.cardContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.8rem 0.4rem;
+}
